@@ -1,0 +1,14 @@
+export const PRIMARY_COLOR = "#2759CD";
+export const SECONDARY_COLOR = "#304166";
+export const WHITE = "#ffffff";
+export const BLUE_2 = "#56f";
+export const BLUE_3 = "#6472f3";
+export const BLUE_1 = "#2a3ded";
+export const PARAGRAPH_COLOR = "#6f87a0eb";
+export const BACKGROUND_COLOR = "#000";
+export const DARK_BLUE_1 = "#050d15";
+export const DARK_BLUE_2 = "#121f2d";
+export const DARK_BLUE_3 = "#132436";
+export const BG_TRANSPARENT = "#02090fcc";
+export const GRADIENT = "#bdd7f180";
+export const SVG_COLOR = "#6f87a0";

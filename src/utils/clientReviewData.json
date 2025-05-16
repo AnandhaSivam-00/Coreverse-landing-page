@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "client_name": "Tommy Curise",
+        "position": "CEO - Imagive.in",
+        "image_url": "null",
+        "comment": "Impressed with master class support of the team and really look forward for the future. Really, really well made! Love that each component is handmade and customised. Great Work!"
+    },
+    {
+        "id": 2,
+        "client_name": "Tommy Reaves",
+        "position": "CEO Founder",
+        "image_url": "null",
+        "comment": "Ut porta laoreet elementum nisl. Nunc at nulla elit sagittis id risus pharetra interdum vestibulum. Commodo aenean et sagittis mauris libero."
+    },
+    {
+        "id": 3,
+        "client_name": "Tommy Curise",
+        "position": "CEO - Imagive.in",
+        "image_url": "null",
+        "comment": "Nunc arcu sed lorem a varius. Eu in scelerisque sit volutpat ut turpis pretium volutpat. Convallis vivamus purus sed nec netus. Accumsan tempor nunc amet pellentesque vitae leo mauris. Non enim sit etiam."
+    },
+    {
+        "id": 4,
+        "client_name": "Tommy Reaves",
+        "position": "CEO Founder",
+        "image_url": "null",
+        "comment": "Aliquet adipiscing faucibus ac aliquet dolor. Lacinia amet sed id cras tempus est egestas posuere. Egestas sit tincidunt dolor in ut faucibus porttitor duis aliquam. Tellus feugiat.”mauris. Non enim sit etiam."
+    },
+    {
+        "id": 5,
+        "client_name": "Tommy Curise",
+        "position": "CEO - Imagive.in",
+        "image_url": "null",
+        "comment": "In lectus blandit semper turpis donec in viverra. Nisi vulputate consectetur sed sit. Mauris elementum nibh sagittis consequat nam massa."
+    },
+    {
+        "id": 6,
+        "client_name": "Tommy Reaves",
+        "position": "CEO Founder",
+        "image_url": "null",
+        "comment": "Ut porta laoreet elementum nisl. Nunc at nulla elit sagittis id risus pharetra interdum vestibulum. Commodo aenean et sagittis mauris libero."
+    }
+]
